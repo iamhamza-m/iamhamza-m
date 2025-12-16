@@ -8,7 +8,7 @@ I build **scalable, secure, enterprise-grade applications** with a strong focus 
 **frontend architecture, performance, and cloud-native backend systems**.
 
 💼 4+ years in Banking & Financial Services  
-🌍 Worked with NAB (Australia) & NatWest (UK)  
+🌍 Worked with National Australia Bank (NAB) & NatWest (Royal Bank of Scotland)
 🚀 Passionate about clean UI, scalable APIs & DevOps automation  
 
 </div>
@@ -49,10 +49,10 @@ I build **scalable, secure, enterprise-grade applications** with a strong focus 
 
 ---
 
-### 🧾 Customer Onboarding Portal (JBWere Wealth Management)
+### 🧾 New Customers Onboarding Portal
 - Led **full-stack development** for digital onboarding & eSign workflows
 - Replaced base64 with **binary streaming**, increasing file size support  
-  from **7 MB → 100 MB**
+  from upto 100 MB**
 - Significantly improved scalability and user experience
 
 **Tech:** React, GraphQL, Spring Boot, AWS
@@ -64,7 +64,7 @@ I build **scalable, secure, enterprise-grade applications** with a strong focus 
   **Qantas, Kogan, myCard, Edge**
 - Delivered optimized, brand-consistent customer journeys
 
-**Tech:** React, TypeScript, GraphQL
+**Tech:** React, TypeScript, GraphQL, SpringBoot
 
 ---
 
@@ -79,16 +79,16 @@ I build **scalable, secure, enterprise-grade applications** with a strong focus 
 
 ---
 
-## 🛠️ Tech Stack (Tiles View)
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,html,css,shell" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,html,css,bash" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,jest" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,spring,jest" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
@@ -97,8 +97,9 @@ I build **scalable, secure, enterprise-grade applications** with a strong focus 
 </p>
 
 ### 🔐 Observability & Enterprise Tools
-- Splunk • DX-APM • Vault • Harness • Ansible • Autosys  
-- Jira • Rally • Cursor • Amazon Q (Generative & Agentic AI)
+Splunk • DX-APM • Harness • Vault • Ansible • Autosys  
+JIRA • Rally • Alfresco • PCF • PingFederate • PingAccess  
+Cursor • Amazon Q (Generative & Agentic AI)
 
 ---
 
@@ -108,8 +109,8 @@ I build **scalable, secure, enterprise-grade applications** with a strong focus 
   <a href="https://linkedin.com/in/mohd-hamza">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-  <a href="mailto:mohdhamza750@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Me-red?logo=gmail" />
+  <a href="mailto:mohdhamza750@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Me-red?logo=yahoo" />
   </a>
 </p>
 
