@@ -9,7 +9,13 @@ I build **scalable, secure, enterprise-grade applications** with a strong focus 
 
 💼 4+ years in Banking & Financial Services  
 🌍 Worked with National Australia Bank (NAB) & NatWest (Royal Bank of Scotland)
-🚀 Passionate about clean UI, scalable APIs & DevOps automation  
+🚀 Passionate about clean UI, scalable APIs & DevOps automation
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamhamza-m&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhamza-m&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Languages" />
+</p>
 
 </div>
 
@@ -103,21 +109,24 @@ Cursor • Amazon Q (Generative & Agentic AI)
 
 ---
 
-## 📫 Let’s Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/mohd-hamza">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />
   </a>
-  <a href="mailto:mohdhamza750@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Me-red?logo=yahoo" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mohdhamza750@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/iamhamza_m/">
+    <img src="https://img.shields.io/badge/LeetCode-iamhamza__m-FFA116?logo=leetcode&logoColor=black" />
   </a>
 </p>
 
+<p align="center">
+  <i>Open to collaborations, discussions, and challenging problem statements! 🚀</i>
+</p>
+
 ---
-
-<div align="center">
-  
-_“I enjoy building systems that scale — both in performance and impact.”_ 🚀
-
-</div>
