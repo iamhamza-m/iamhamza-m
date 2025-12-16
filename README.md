@@ -118,6 +118,6 @@ Cursor • Amazon Q (Generative & Agentic AI)
 
 <div align="center">
   
-⭐ _“I enjoy building systems that scale — both in performance and impact.”_
+_“I enjoy building systems that scale — both in performance and impact.”_ 🚀
 
 </div>
