@@ -35,55 +35,14 @@ I build **scalable, secure, enterprise-grade applications** with a strong focus 
 
 ---
 
-## 🏗️ Projects I’ve Worked On
+## 🏗️ Personal Projects I’ve Worked On
 
-### 📄 Enterprise Document Services (NAB – Personal Banking)
-**Role:** Full Stack Engineer  
-- Built configurable **React-based document management UI** used across  
-  **90+ departments & 600,000+ customers**
-- Developed **Spring Boot REST APIs** with secure AD-based entitlement validation
-- Enabled enterprise-wide rollout with profile-driven configuration
+### 📄 Job Automation Tool
+- Built Python-based job application automation tool that handles portal navigation, keyword-based job search, account creation/login, and form submission with resume data
+- Implemented Playwright-driven browser automation with human-like delays and robust error handling for reliable execution across ATS platforms
+- Designed modular JSON configuration for companies, credentials, and resume to enable easy extension (Google Forms complete; Workday in progress)
 
-**Tech:** React, TypeScript, Redux, Spring Boot, AWS, Alfresco
-
----
-
-### ✍️ Signature Verification Platform
-- Owned **end-to-end UI development** for signature image retrieval
-- Refactored backend with **multi-threaded batch processing**
-- ⏱️ Reduced verification time by **40% for 22,000+ bankers**
-
-**Tech:** React, Java, Spring Boot, AWS
-
----
-
-### 🧾 New Customers Onboarding Portal
-- Led **full-stack development** for digital onboarding & eSign workflows
-- Replaced base64 with **binary streaming**, increasing file size support  
-  from upto 100 MB**
-- Significantly improved scalability and user experience
-
-**Tech:** React, GraphQL, Spring Boot, AWS
-
----
-
-### 💳 Debit & Credit Cards Experience Platform
-- Designed interactive UI features for Australian brands:
-  **Qantas, Kogan, myCard, Edge**
-- Delivered optimized, brand-consistent customer journeys
-
-**Tech:** React, TypeScript, GraphQL, SpringBoot
-
----
-
-### 🔐 Identity & Access Management (NatWest Group)
-**Role:** Systems Engineer  
-- Worked on enterprise **IAM systems** (LDAP, Kerberos, PingFederate)
-- Automated deployments & rollbacks using **Shell & Ansible**
-- Built real-time observability dashboards with **60+ metrics**
-- Reduced downtime by **15%** and improved triage speed by **40%**
-
-**Tech:** Java, Spring Boot, AWS, PCF, Splunk, DX-APM
+**Tech:** Python, Playwright, Selenium, JSON, BeautifulSoup, Pandas
 
 ---
 
