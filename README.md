@@ -13,6 +13,7 @@ I build **scalable, secure, enterprise-grade applications** with a strong focus 
 
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamhamza-m&layout=compact&theme=radical&hide_border=true&langs_count=20" alt="Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=iamhamza-m&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 </div>
