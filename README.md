@@ -115,11 +115,11 @@ Cursor • Amazon Q (Generative & Agentic AI)
 
 <p align="center">
   <a href="https://linkedin.com/in/mohd-hamza">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=python&logoColor=white&style=flat" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:mohdhamza750@yahoo.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Yahoo-Contact%20Me-D14836?logo=rocket&logoColor=white&style=flat" alt="Yahoo" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/iamhamza_m/">
