@@ -12,9 +12,7 @@ I build **scalable, secure, enterprise-grade applications** with a strong focus 
 🚀 Passionate about clean UI, scalable APIs & DevOps automation
 
 <p>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=iamhamza-m&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  &nbsp;&nbsp; -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhamza-m&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamhamza-m&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Languages" />
 </p>
 
 </div>
